@@ -14,5 +14,5 @@ FNCamera SDK目的是為了讓開發者能快速與不同家相機晶片進行�
 ## SDK使用說明
 [Android SDK 使用說明](https://github.com/fusion-next/Document_FNCamera/wiki/Home_Android)
 
-[iOS SDK 使用說明](https://github.com/fusion-next/Document_FNCamera/wiki/wiki/Home_iOS)
+[iOS SDK 使用說明](https://github.com/fusion-next/Document_FNCamera/wiki/Home_iOS)
 
